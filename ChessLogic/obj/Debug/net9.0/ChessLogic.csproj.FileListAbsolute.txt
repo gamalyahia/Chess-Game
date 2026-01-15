@@ -1,0 +1,11 @@
+C:\Users\owner\OneDrive\Documents\GitHub\Chess\ChessLogic\bin\Debug\net9.0\ChessLogic.deps.json
+C:\Users\owner\OneDrive\Documents\GitHub\Chess\ChessLogic\bin\Debug\net9.0\ChessLogic.dll
+C:\Users\owner\OneDrive\Documents\GitHub\Chess\ChessLogic\bin\Debug\net9.0\ChessLogic.pdb
+C:\Users\owner\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net9.0\ChessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net9.0\ChessLogic.AssemblyInfoInputs.cache
+C:\Users\owner\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net9.0\ChessLogic.AssemblyInfo.cs
+C:\Users\owner\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net9.0\ChessLogic.csproj.CoreCompileInputs.cache
+C:\Users\owner\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net9.0\ChessLogic.dll
+C:\Users\owner\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net9.0\refint\ChessLogic.dll
+C:\Users\owner\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net9.0\ChessLogic.pdb
+C:\Users\owner\OneDrive\Documents\GitHub\Chess\ChessLogic\obj\Debug\net9.0\ref\ChessLogic.dll
