@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessLogic\\ChessLogic.csproj",
       "projectName": "ChessLogic",
-      "projectPath": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\ChessLogic.csproj",
+      "projectPath": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessLogic\\ChessLogic.csproj",
       "packagesPath": "C:\\Users\\owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\obj\\",
+      "outputPath": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
