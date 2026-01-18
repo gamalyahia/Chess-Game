@@ -1,42 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\",
+  "WorkspaceRootPath": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|c:\\users\\owner\\onedrive\\documents\\github\\chess\\chesslogic\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23ADB7F3-7FF4-4523-A791-8C02433C2326}|ChessUI\\ChessUI.csproj|c:\\users\\owner\\onedrive\\documents\\github\\chess-game\\chessui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ADB7F3-7FF4-4523-A791-8C02433C2326}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|c:\\users\\owner\\onedrive\\documents\\github\\chess\\chesslogic\\pieces\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\pieces\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23ADB7F3-7FF4-4523-A791-8C02433C2326}|ChessUI\\ChessUI.csproj|c:\\users\\owner\\onedrive\\documents\\github\\chess-game\\chessui\\chesscursors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23ADB7F3-7FF4-4523-A791-8C02433C2326}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\chesscursors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|c:\\users\\owner\\onedrive\\documents\\github\\chess\\chesslogic\\pieces\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\pieces\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|c:\\users\\owner\\onedrive\\documents\\github\\chess\\chesslogic\\pieces\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\pieces\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|c:\\users\\owner\\onedrive\\documents\\github\\chess\\chesslogic\\pieces\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\pieces\\piece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|c:\\users\\owner\\onedrive\\documents\\github\\chess\\chesslogic\\moves\\normalmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\moves\\normalmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|c:\\users\\owner\\onedrive\\documents\\github\\chess\\chesslogic\\moves\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\moves\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|c:\\users\\owner\\onedrive\\documents\\github\\chess\\chesslogic\\movetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\movetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|c:\\users\\owner\\onedrive\\documents\\github\\chess\\chesslogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13AF2970-07E2-424C-A627-E9D64E0A3542}|ChessLogic\\ChessLogic.csproj|solutionrelative:chesslogic\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23ADB7F3-7FF4-4523-A791-8C02433C2326}|ChessUI\\ChessUI.csproj|c:\\users\\owner\\onedrive\\documents\\github\\chess-game\\chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{23ADB7F3-7FF4-4523-A791-8C02433C2326}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,119 +38,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Knight.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Pieces\\Knight.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Pieces\\Knight.cs",
-              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Pieces\\Knight.cs",
-              "RelativeToolTip": "ChessLogic\\Pieces\\Knight.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T20:50:51.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Queen.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Pieces\\Queen.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Pieces\\Queen.cs",
-              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Pieces\\Queen.cs",
-              "RelativeToolTip": "ChessLogic\\Pieces\\Queen.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA3wBIAAAAIAAAAAAAAAA==",
+              "Title": "ChessCursors.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessUI\\ChessCursors.cs",
+              "RelativeDocumentMoniker": "ChessUI\\ChessCursors.cs",
+              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessUI\\ChessCursors.cs*",
+              "RelativeToolTip": "ChessUI\\ChessCursors.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T20:46:42.716Z",
+              "WhenOpened": "2026-01-18T09:49:50.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Rook.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Pieces\\Rook.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Pieces\\Rook.cs",
-              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Pieces\\Rook.cs",
-              "RelativeToolTip": "ChessLogic\\Pieces\\Rook.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T20:45:35.052Z",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessUI\\MainWindow.xaml",
+              "RelativeToolTip": "ChessUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-18T09:15:35.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Bishop.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Pieces\\Bishop.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Pieces\\Bishop.cs",
-              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Pieces\\Bishop.cs",
-              "RelativeToolTip": "ChessLogic\\Pieces\\Bishop.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessUI\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "ChessUI\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwF8AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T20:41:07.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NormalMove.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Moves\\NormalMove.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Moves\\NormalMove.cs",
-              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Moves\\NormalMove.cs",
-              "RelativeToolTip": "ChessLogic\\Moves\\NormalMove.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T20:24:37.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Move.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Moves\\Move.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Moves\\Move.cs",
-              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Moves\\Move.cs",
-              "RelativeToolTip": "ChessLogic\\Moves\\Move.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T20:22:06.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MoveType.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\MoveType.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\MoveType.cs",
-              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\MoveType.cs",
-              "RelativeToolTip": "ChessLogic\\MoveType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T20:18:52.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Board.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Board.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Board.cs",
-              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Board.cs",
-              "RelativeToolTip": "ChessLogic\\Board.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T20:15:39.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Piece.cs",
-              "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Pieces\\Piece.cs",
-              "RelativeDocumentMoniker": "ChessLogic\\Pieces\\Piece.cs",
-              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess\\ChessLogic\\Pieces\\Piece.cs",
-              "RelativeToolTip": "ChessLogic\\Pieces\\Piece.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-15T20:15:38.009Z",
+              "WhenOpened": "2026-01-18T09:15:30.931Z",
               "EditorCaption": ""
             }
           ]

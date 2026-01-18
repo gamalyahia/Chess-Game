@@ -57,7 +57,7 @@
             
                 if (!HasMoved && CanMoveTo(twoMovePos , board))
                 {
-                    yield return new NormalMove(from, oneMovePos);
+                    yield return new NormalMove(from, twoMovePos);
                 }
             }
         }
