@@ -42,12 +42,11 @@
               "Title": "ChessCursors.cs",
               "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessUI\\ChessCursors.cs",
               "RelativeDocumentMoniker": "ChessUI\\ChessCursors.cs",
-              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessUI\\ChessCursors.cs*",
-              "RelativeToolTip": "ChessUI\\ChessCursors.cs*",
+              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessUI\\ChessCursors.cs",
+              "RelativeToolTip": "ChessUI\\ChessCursors.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T09:49:50.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T09:49:50.64Z"
             },
             {
               "$type": "Document",
@@ -58,8 +57,7 @@
               "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessUI\\MainWindow.xaml",
               "RelativeToolTip": "ChessUI\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-01-18T09:15:35.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T09:15:35.355Z"
             },
             {
               "$type": "Document",
@@ -67,9 +65,9 @@
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessUI\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessUI\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "ChessUI\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAkwF8AAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\owner\\OneDrive\\Documents\\GitHub\\Chess-Game\\ChessUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChessUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T09:15:30.931Z",
               "EditorCaption": ""
